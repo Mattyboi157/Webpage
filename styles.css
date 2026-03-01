@@ -16,6 +16,11 @@
 html {
     scroll-behavior: smooth;
 }
+img {
+    display: block;
+    margin: auto;
+    width: 50%;
+}
 
 body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
